@@ -1,0 +1,12 @@
+/node_modules
+.env
+
+/session_data
+
+npm-debug.log*
+
+package-lock.json
+
+# /dist
+# /build
+
